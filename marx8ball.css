@@ -1,0 +1,89 @@
+body {
+    color: #333;
+    background-color: #fcfaf2;
+    font-family: 'Vollkorn', serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #c90707;
+    font-family: 'Ovo', serif;
+    font-size: 4em;
+    margin: 10px auto;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+p {
+    color: #333;
+    font-family: 'Vollkorn', serif;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 768px) {
+    .container, quote {
+        width: 750px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container, quote {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container, quote {
+        width: 1170px;
+    }
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.author {
+    font-style: italic;
+}
+
+.button, .tweetbutton {
+    color:  #000;
+    background-color: #c90707;
+    border-radius: 15px;
+    box-shadow: -5px 5px 10px rgba(100,100,100,.8);
+    font-family: 'Ovo', serif;
+    font-size: 36px;
+    height: 50px;
+    margin: 20px auto;
+    text-align: center;
+    width: 250px;
+}
+
+.center {
+    text-align: center;
+}
+
+.link {
+    color: red;
+}
+
+.quote {
+    color: #333;
+    background-color: #efefef;
+    border-radius: 20px;
+    box-shadow: -10px 10px 20px rgba(100,100,100,.8);
+    font-family: 'Vollkorn', serif;
+    font-size: 1.5em;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px;
+}
