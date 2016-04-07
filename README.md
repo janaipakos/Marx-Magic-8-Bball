@@ -5,9 +5,6 @@ Collection of tweetable quotes from [*Jacobin*](https://www.jacobinmag.com/) mag
 
 [https://marx-magic-8ball.herokuapp.com/](https://marx-magic-8ball.herokuapp.com/)
 
-## Image
-![Marx8ball.png][1]
-
 ## How to Use:
 - Click the `Marx Me` button to read a randomized quote.
 - Click the `Tweet Me` button to tweet the quote.
@@ -47,4 +44,8 @@ heroku app:rename <newname>
 heroku open
 
 ```
+
+## Image
+![Marx8ball.png][1]
+
 [1]: https://github.com/janaipakos/Marx-Magic-8-Bball/blob/master/Marx8Ball.png
