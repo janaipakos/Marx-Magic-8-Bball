@@ -48,4 +48,4 @@ heroku app:rename <newname>
 heroku open
 
 ```
-[1]: https://raw.github.com/janaipakos/Marx-Magic-8-Bball/master/Marx8ball.png
+[1]: Marx-Magic-8-Bball/Marx8Ball.png
